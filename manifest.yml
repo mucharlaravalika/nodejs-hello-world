@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net  
-  name: Nodejs
-  host: Nodejs
-  command: node app.js
+  name: RavNode2
+  host: RavNode2
+  command: node web.js
   disk_quota: 1024M
