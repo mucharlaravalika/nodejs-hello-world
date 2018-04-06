@@ -3,7 +3,7 @@ applications:
   memory: 50M
   instances: 1
   domain: mybluemix.net  
-  name: apptrail
-  host: apptrail
+  name: apptrails
+  host: apptrails
   command: node web.js
   disk_quota: 1024M
