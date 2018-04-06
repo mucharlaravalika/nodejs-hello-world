@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net  
-  name: RavNode2
-  host: RavNode2
+  name: apptrail
+  host: apptrail
   command: node web.js
   disk_quota: 1024M
